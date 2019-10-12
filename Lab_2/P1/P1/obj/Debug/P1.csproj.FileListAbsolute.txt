@@ -1,0 +1,16 @@
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\bin\Debug\P1.exe.config
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\bin\Debug\P1.exe
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\bin\Debug\P1.pdb
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\P1.csprojAssemblyReference.cache
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\MainWindow.g.cs
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\App.g.cs
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\P1_MarkupCompile.cache
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\P1_MarkupCompile.lref
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\MainWindow.baml
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\P1.g.resources
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\P1.Properties.Resources.resources
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\P1.csproj.GenerateResource.cache
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\P1.exe
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\P1.pdb
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\WindowInfo.g.cs
+C:\Users\Salle\Desktop\C#\Lab_2\P1\P1\obj\Debug\WindowInfo.baml

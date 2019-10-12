@@ -1,0 +1,39 @@
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Lab1.Tests.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Lab1.Tests.pdb
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Lab1.exe
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Lab1.pdb
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Lab1.exe.config
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\obj\Debug\Lab1.Tests.csprojAssemblyReference.cache
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\obj\Debug\Lab1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\obj\Debug\Lab1.Tests.csproj.CopyComplete
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\obj\Debug\Lab1.Tests.dll
+C:\Users\Salle\Desktop\C#\Lab1\Lab1.Tests\obj\Debug\Lab1.Tests.pdb
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Lab1.Tests.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Lab1.Tests.pdb
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Lab1.exe
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Lab1.pdb
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Lab1.exe.config
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\obj\Debug\Lab1.Tests.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\obj\Debug\Lab1.Tests.csproj.CopyComplete
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\obj\Debug\Lab1.Tests.dll
+C:\Users\Alex\Desktop\C#\Lab 1\P1 P2\Lab1.Tests\obj\Debug\Lab1.Tests.pdb
